@@ -4,8 +4,7 @@ Just fork/download the repo and run
 `npm install`.
 
 Why did i even bother creating this tiny template ? 
-- Because i'm lazy. 🤷‍♂️
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
+- Because i'm lazy. 💤
 
 ## Development server
 
