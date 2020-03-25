@@ -7,7 +7,7 @@ import { loadModules } from 'esri-loader';
   styleUrls: ['./esrimap.component.scss']
 })
 export class EsrimapComponent implements OnInit {
-  @ViewChild('mapViewNode') private mapViewEl: ElementRef;
+  @ViewChild('mapViewNode', { static: true }) private mapViewEl: ElementRef;
   constructor() { }
 
   ngOnInit() {
